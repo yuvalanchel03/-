@@ -1,0 +1,12 @@
+[
+  { "id": 1, "username": "yuval.anchel", "password": "Passw0rd!23", "email": "yuval.anchel@example.com" },
+  { "id": 2, "username": "amir_k", "password": "Amir#2025", "email": "amir.k@example.com" },
+  { "id": 3, "username": "noa.dev", "password": "NoaDev!9", "email": "noa.dev@example.com" },
+  { "id": 4, "username": "david99", "password": "D@vid_99", "email": "david99@example.com" },
+  { "id": 5, "username": "sara.m", "password": "SaraM2024$", "email": "sara.m@example.com" },
+  { "id": 6, "username": "tech_guy", "password": "T3chGuy!!", "email": "tech.guy@example.com" },
+  { "id": 7, "username": "liron-web", "password": "L1r0nWeb#", "email": "liron.web@example.com" },
+  { "id": 8, "username": "eli_shop", "password": "Eli$hop2025", "email": "eli.shop@example.com" },
+  { "id": 9, "username": "maya.p", "password": "MayaP!77", "email": "maya.p@example.com" },
+  { "id": 10, "username": "oren_admin", "password": "0r3n_Admin@", "email": "oren.admin@example.com" }
+]
